@@ -1,22 +1,20 @@
 # 🚀 Futuristic Developer Portfolio
 
-> **Live Demo:** [Insert Your Vercel Link Here](https://your-portfolio-link.vercel.app/)
+> **Live Demo:** [Insert Your Vercel Link Here](https://avi-sharma-portfolio.vercel.app/)
 
 A high-performance, immersive digital portfolio designed to showcase full-stack applications, Web3 integrations, and modern UI/UX design. Built with cutting-edge web technologies, it features dynamic 3D particle backgrounds, sleek glassmorphism, and seamless scroll animations.
 
 ---
 
 ## 📸 Screenshots
+<img width="1900" height="965" alt="image" src="https://github.com/user-attachments/assets/fc22890b-3f6e-4fba-8b8e-e3592bc6113d" />
+<img width="1898" height="957" alt="image" src="https://github.com/user-attachments/assets/0a1b3d9b-016c-4803-a213-914f8f49df11" />
+<img width="1888" height="953" alt="image" src="https://github.com/user-attachments/assets/1d2811f1-6a42-42f6-9e37-f03ac66552ed" />
+<img width="1905" height="953" alt="image" src="https://github.com/user-attachments/assets/7bb74871-0409-48b6-9063-e5c1021f71d2" />
+<img width="1877" height="957" alt="image" src="https://github.com/user-attachments/assets/5fb355d7-336b-44dc-a276-da5bb0c1ce45" />
 
-*(Replace the placeholder links below with your actual screenshot URLs)*
 
-| Hero Section | Projects Section |
-| :---: | :---: |
-| ![Hero Screenshot](https://via.placeholder.com/600x300?text=Hero+Section+Screenshot) | ![Projects Screenshot](https://via.placeholder.com/600x300?text=Projects+Section+Screenshot) |
 
-*(To add real screenshots, just drag and drop your images into this README file on GitHub, or place them in your `public` folder and link them like `/screenshot-hero.png`)*
-
----
 
 ## ✨ Key Features
 
