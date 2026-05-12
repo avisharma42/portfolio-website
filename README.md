@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Futuristic Developer Portfolio
 
-## Getting Started
+> **Live Demo:** [Insert Your Vercel Link Here](https://your-portfolio-link.vercel.app/)
 
-First, run the development server:
+A high-performance, immersive digital portfolio designed to showcase full-stack applications, Web3 integrations, and modern UI/UX design. Built with cutting-edge web technologies, it features dynamic 3D particle backgrounds, sleek glassmorphism, and seamless scroll animations.
+
+---
+
+## 📸 Screenshots
+
+*(Replace the placeholder links below with your actual screenshot URLs)*
+
+| Hero Section | Projects Section |
+| :---: | :---: |
+| ![Hero Screenshot](https://via.placeholder.com/600x300?text=Hero+Section+Screenshot) | ![Projects Screenshot](https://via.placeholder.com/600x300?text=Projects+Section+Screenshot) |
+
+*(To add real screenshots, just drag and drop your images into this README file on GitHub, or place them in your `public` folder and link them like `/screenshot-hero.png`)*
+
+---
+
+## ✨ Key Features
+
+- **Immersive 3D Background:** Interactive particle stars powered by Three.js & React Three Fiber.
+- **Glassmorphism UI:** Modern, translucent card designs blending beautifully with the background.
+- **Scroll Animations:** Smooth component reveals triggered by scroll, powered by Framer Motion.
+- **Fully Responsive:** Beautifully optimized for both mobile devices and large desktop monitors.
+- **Premium Aesthetics:** Handpicked futuristic color palettes, deep space gradients, and modern typography.
+
+## 🛠️ Tech Stack
+
+- **Framework:** [Next.js 15](https://nextjs.org/) (App Router)
+- **Library:** [React](https://react.dev/)
+- **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
+- **3D Rendering:** [Three.js](https://threejs.org/) + [@react-three/fiber](https://docs.pmnd.rs/react-three-fiber/) + [@react-three/drei](https://github.com/pmndrs/drei)
+- **Animations:** [Framer Motion](https://www.framer.com/motion/)
+- **Icons:** [Lucide React](https://lucide.dev/) & [React Icons](https://react-icons.github.io/react-icons/)
+
+## 🚀 Getting Started Locally
+
+First, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/avisharma42/portfolio-website.git
+cd portfolio-website
+npm install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 👨‍💻 About the Developer
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Avi Sharma**  
+Computer Science Engineering student specializing in building scalable full-stack applications, Web3 platforms, and interactive digital experiences. 
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Email:** [avisharmam42@gmail.com](mailto:avisharmam42@gmail.com)
+- **LinkedIn:** [linkedin.com/in/avi-sharma](https://linkedin.com/in/avi-sharma)
+- **GitHub:** [github.com/avisharma](https://github.com/avisharma)
